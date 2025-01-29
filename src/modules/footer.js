@@ -12,7 +12,7 @@ const prepareFooter = () => {
     "",
     "",
     "",
-    "https://github.com/bmilcs/odin-restaurant-page"
+    "https://github.com/amanpatel0305/Odin-Restaurant-Page"
   );
 
   const p = createElement("p", "footer-p", "bmilcs");
